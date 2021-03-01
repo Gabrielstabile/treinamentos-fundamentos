@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cpf_cnpj (0.5.0)
+    easy_translate (0.5.1)
+      thread
+      thread_safe
+    thread (0.2.2)
+    thread_safe (0.3.6)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  cpf_cnpj
+  easy_translate
+
+BUNDLED WITH
+   2.2.11
